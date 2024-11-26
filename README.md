@@ -2,4 +2,4 @@
 
 ## Group Portion - Predicting 
 
-### By Pouya Khoshnavaz, Tom Shi, Ege Taslicay, Rudra Patel
+### By Pouya Khoshnavazi, Tom Shi, Ege Taslicay, Rudra Patel
