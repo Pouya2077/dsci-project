@@ -4,4 +4,4 @@
 
 ### By Pouya Khoshnavazi, Tom Shi, Ege Taslicay, Rudra Patel
 
-Read/CLick IPYNB for full report.
+Read/Click IPYNB for full report.
