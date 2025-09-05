@@ -1,4 +1,4 @@
-# DSCI 100 Group Project
+# Predictive Model of Minecraft Gameplay Engagement
 
 ## Group Portion - Predicting 
 
